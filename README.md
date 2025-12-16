@@ -19,9 +19,11 @@ The landing page includes a header, hero section, features section, call-to-acti
 
 ```
 LandingPage/
-│
-├── index.html
-└── README.md
+|__index.html
+|__style.css
+|__README.md
+
+
 ```
 
 ---
